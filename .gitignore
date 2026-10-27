@@ -1,0 +1,7 @@
+.metadata/
+.vscode/
+Servers/
+**/target/
+**/.settings/
+**/.classpath
+**/.project
